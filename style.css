@@ -1,0 +1,16 @@
+body {
+  color: green;
+  background-color:lavender;
+}
+
+h1{
+  color:red;
+  font-family: 'Princess Sofia', cursive;
+  font-size: 30pt;
+
+}
+
+img{
+  padding:10px;
+  margin:10px;
+}
